@@ -6,7 +6,7 @@ El héroe, intenta realizar esta habilidad llamada "Zancadilla" y acaba tropezá
 Ayuda al heroe a recuperar la memoria en esta aventura.
 
 ### Autores
-Francisco Bañez Gallego
-Juan José Romero Montes
-Juan Manuel Rodríguez Bonilla
+- Francisco Bañez Gallego
+- Juan José Romero Montes
+- Juan Manuel Rodríguez Bonilla
 
